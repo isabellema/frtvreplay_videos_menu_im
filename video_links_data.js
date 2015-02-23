@@ -21,7 +21,11 @@ videoLinksData = [
       },
       {
       name: "canalplus.fr - L'Album de la Semaine",
-      url: "www.canalplus.fr/c-divertissement/c-musique/pid5043-album-de-la-semaine.html"
+      url: "http://www.canalplus.fr/c-divertissement/c-musique/pid5043-album-de-la-semaine.html"
+      },
+      {
+      name: "numero23.fr - Rocking Chair",
+      url: "http://www.numero23.fr/programmes/rocking-chair-3/"
       },
       {
       name: "d17.tv - Le Zap",
